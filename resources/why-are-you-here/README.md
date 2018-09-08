@@ -10,3 +10,11 @@ This talk was designed to get the hackers into a good headspace before the hacka
 * Everything starts with an idea
 
 The PDF of the presentation is in this folder, named WhyAreYouHere.pdf.
+
+The video of the talk is waiting to be uploaded by ETHBerlin staff.
+
+---
+
+Jordan Spence on Twitter: <a href=https://twitter.com/spencecoin>@spencecoin</a>
+
+MyCrypto on Twitter: <a href=https://twitter.com/mycrypto>@mycrypto</a>
