@@ -1,5 +1,5 @@
 # Baking Utility into NFTs
-by [Christopher Robison](twitter.com/@cbobrobison) of [Hoard](twitter.com/@haordexchange)
+by [Christopher Robison](twitter.com/@cbobrobison) of [Hoard](twitter.com/@hoardexchange)
 
 ### Description
 NFTs have been largely dominated by the 'collectable' community, which, of course, is awesome! But how do you develop utility for them beyond scarcity? Video games can teach us a lot about virtual economies and how to achieve NFT utility with a high probability of success.
