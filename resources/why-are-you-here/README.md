@@ -1,4 +1,4 @@
-Why Are You Here? Is a talk by Jordan Spence, the Chief Marketing Officer of MyCrypto.
+###Why Are You Here? Is a talk by Jordan Spence, the Chief Marketing Officer of MyCrypto.
 
 This talk was designed to get the hackers into a good headspace before the hackathon began. It touches on figuring out and learning a few key points:
 
@@ -15,6 +15,6 @@ The video of the talk is waiting to be uploaded by ETHBerlin staff.
 
 ---
 
-Jordan Spence on Twitter: <a href=https://twitter.com/spencecoin>@spencecoin</a>
+Jordan Spence on Twitter: [@spencecoin](https://twitter.com/spencecoin)
 
-MyCrypto on Twitter: <a href=https://twitter.com/mycrypto>@mycrypto</a>
+MyCrypto on Twitter: [@mycrypto](https://twitter.com/mycrypto)
