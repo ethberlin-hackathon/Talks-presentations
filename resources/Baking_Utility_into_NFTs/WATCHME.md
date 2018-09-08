@@ -9,6 +9,7 @@ Christopher Robison discusses how ERC721s - and other emerging standards, such a
 ## Presentation
 - [Pre-Recorded Video](https://youtu.be/MzHUo-bOqiA)
 - [Keynote Slides (View Only)](https://www.icloud.com/keynote/0DUPpjDqH9K3wnIY8ilClav9g#EthBerlin_-_Baking_Utility_NFTs_-_KEYNOTE)
+- [NFTweets Demo (Live on Mainnet)](http://nftweets.com/)
 
 ---
 ✨[Subscribe](http://blog.hoard.exchange/) to Hoard's Blog for more on _Cryptoeconomics in Video Games_
