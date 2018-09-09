@@ -6,6 +6,7 @@ Check out our [presentation](https://github.com/matterinc/DiveLane/blob/master/D
 It will give you a brief overview of Dive Lane and it's message.
 
 ## Freedom is **essential**. Privacy **Matter**!
+Powered by [web3swift](https://github.com/matterinc/web3swift)
 
 ### What is it?
 
