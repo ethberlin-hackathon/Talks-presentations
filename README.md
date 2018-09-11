@@ -2,6 +2,11 @@
 Catch up with the presentations! they will all be uploaded here.
 
 ## Presentations
+- **Status** Ethereum: Everyone, Everywhere
+  - [pdf](resources/Ethereum_Everyone_Everywhere.pdf)
+  - [keynote](resources/Ethereum_Everyone_Everywhere.key)
+  - [other resources](https://get.status.im)
+
 - **(Aragon) Playing Cat and Mouse with the EVM**
   - [pdf](resources/cat-and-mouse/pdf.pdf)
   - [keynote](resources/cat-and-mouse/keynote.key)
