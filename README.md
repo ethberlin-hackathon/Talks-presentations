@@ -1,5 +1,7 @@
-# Talks-presentations
-Catch up with the presentations! they will all be uploaded here.
+# Talks and presentations
+![ETHBerlin logo](https://github.com/ethberlin-hackathon/media-assets/raw/master/ETHBerlin%20logo%20-%20horizontal%20transparent%20-%20small.png)
+
+If you weren't able to attend ETHBerlin or were there but missed a talk, look no further. This repository maintains a list of presentations that happened at ETHBerlin, with any additional resources that the presenters deem useful.
 
 ## Presentations
 - **Status** Ethereum: Everyone, Everywhere
