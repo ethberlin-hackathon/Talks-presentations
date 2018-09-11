@@ -13,11 +13,11 @@ If you weren't able to attend ETHBerlin or were there but missed a talk, look no
   - [pdf](resources/cat-and-mouse/pdf.pdf)
   - [keynote](resources/cat-and-mouse/keynote.key)
   - [documentation](https://hack.aragon.org/)
-  
+
 - **Why Are You Here?** A talk that gets hackers into the right headspace when beginning their projects.
   - [pdf](resources/why-are-you-here/whyareyouhere.pdf)
   - [video]()
-  - [MyCrypto.com](https://www.mycrypto.com)  
+  - [MyCrypto.com](https://www.mycrypto.com)
 
 - **(OpenST) Running Metablockchains on Ethereum to Scale DApps to billions of users**
   - [pdf](resources/metablockchains-on-ethereum/OpenST-Metablockchains-to-scale-DApps.pdf)
@@ -34,6 +34,11 @@ If you weren't able to attend ETHBerlin or were there but missed a talk, look no
 - **CI/CD For Smart Contract Development on Ethereum**
   - [pdf](resources/cicd-smartcontract-development/CiForSmartContractDevelopmentOnEthereum.pdf)
   - [CI/CD Sample Pipeline code](https://gitlab.com/mikiquantum/simple-dapp-calculator)
+
+- **Getting Started with Web3 and React**
+  - [pdf](resources/getting-started-web3-react/Getting-started-with-Web3-and-React.pdf)
+  - [TweetStream](https://github.com/rdinicut/tweet-stream) - Monorepo, sample dapp
+  - [ReactDappRequirements](https://github.com/centrifuge/react-dapp-requirements) - Manage Metamask, Eth accessibility requirements
 
 ## Submit your presentation
 Thanks for presenting at ETHBerlin. Please consider uploading your files into a sub-directory of [resources](resources/) and add them to list above by making a pull request.
