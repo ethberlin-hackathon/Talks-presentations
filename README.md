@@ -2,10 +2,6 @@
 Catch up with the presentations! they will all be uploaded here.
 
 ## Presentations
-- **Example** About some interesting topic.
-  - [pdf]()
-  - [other resources]()
-
 - **(Aragon) Playing Cat and Mouse with the EVM**
   - [pdf](resources/cat-and-mouse/pdf.pdf)
   - [keynote](resources/cat-and-mouse/keynote.key)
