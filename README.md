@@ -5,8 +5,8 @@ If you weren't able to attend ETHBerlin or were there but missed a talk, look no
 
 ## Presentations
 - **Status** Ethereum: Everyone, Everywhere
-  - [pdf](resources/Ethereum_Everyone_Everywhere.pdf)
-  - [keynote](resources/Ethereum_Everyone_Everywhere.key)
+  - [pdf](resources/ethereum-everyone-everywhere/Ethereum_Everyone_Everywhere.pdf)
+  - [keynote](resources/ethereum-everyone-everywhere/Ethereum_Everyone_Everywhere.key)
   - [other resources](https://get.status.im)
 
 - **(Aragon) Playing Cat and Mouse with the EVM**
