@@ -31,5 +31,9 @@ If you weren't able to attend ETHBerlin or were there but missed a talk, look no
   - [Keynote Slides (View Only)](https://www.icloud.com/keynote/0DUPpjDqH9K3wnIY8ilClav9g#EthBerlin_-_Baking_Utility_NFTs_-_KEYNOTE)
   - [NFTweets Demo (Live on Mainnet)](http://nftweets.com/)
 
+- **CI/CD For Smart Contract Development on Ethereum**
+  - [pdf](resources/cicd-smartcontract-development/CiForSmartContractDevelopmentOnEthereum.pdf)
+  - [CI/CD Sample Pipeline code](https://gitlab.com/mikiquantum/simple-dapp-calculator)
+
 ## Submit your presentation
 Thanks for presenting at ETHBerlin. Please consider uploading your files into a sub-directory of [resources](resources/) and add them to list above by making a pull request.
