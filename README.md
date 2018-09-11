@@ -26,5 +26,10 @@ If you weren't able to attend ETHBerlin or were there but missed a talk, look no
 - **(Aragon) True Decentralization** by Luis Cuende
   - [pdf](resources/true-decentralization/True-decentralization_Luis-Cuende_Aragon.pdf)
 
+- **Baking Utility into NFTs** [Read more](resources/Baking_Utility_into_NFTs/WATCHME.md)
+  - [Pre-Recorded Video](https://youtu.be/MzHUo-bOqiA)
+  - [Keynote Slides (View Only)](https://www.icloud.com/keynote/0DUPpjDqH9K3wnIY8ilClav9g#EthBerlin_-_Baking_Utility_NFTs_-_KEYNOTE)
+  - [NFTweets Demo (Live on Mainnet)](http://nftweets.com/)
+
 ## Submit your presentation
 Thanks for presenting at ETHBerlin. Please consider uploading your files into a sub-directory of [resources](resources/) and add them to list above by making a pull request.
