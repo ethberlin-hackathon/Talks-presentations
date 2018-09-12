@@ -13,7 +13,7 @@ This talk was designed to get the hackers into a good headspace before the hacka
 * You don't have to code to build
 * Everything starts with an idea
 
-To view a PDF of the presentation, click [here](/resources/why-are-you-here/whyareyouhere.pdf).
+To view a PDF of the presentation, click [here](/resources/why-are-you-here/WhyAreYouHere.pdf).
 
 The video of the talk is waiting to be uploaded by ETHBerlin staff.
 
