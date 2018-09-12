@@ -12,7 +12,7 @@ Catch up with the presentations! they will all be uploaded here.
   -[documentation](https://hack.aragon.org/)
   
 - **Why Are You Here?** A talk that gets hackers into the right headspace when beginning their projects.
-  - [pdf](resources/why-are-you-here/whyareyouhere.pdf)
+  - [pdf](resources/why-are-you-here/WhyAreYouHere.pdf)
   - [video]()
   - [MyCrypto.com](https://www.mycrypto.com)  
 
