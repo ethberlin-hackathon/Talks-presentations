@@ -40,5 +40,10 @@ If you weren't able to attend ETHBerlin or were there but missed a talk, look no
   - [pdf](resources/metablockchains-on-ethereum/OpenST-Metablockchains-to-scale-DApps.pdf)
   - [keynote](resources/metablockchains-on-ethereum/OpenST-Metablockchains-to-scale-DApps.key)
 
+- **(Gitcoin) How to BUIDL a Mesh Network of Human Beings** - By Kevin Owocki
+  - [Google Slides](https://docs.google.com/presentation/d/1XQU8hYsBkwjSU93xjnyS969vjuvQwy0UrYhdWr4z0YU/edit#slide=id.g3dd8aa8ea9_0_50)
+  - [Blog Post](https://medium.com/gitcoin/how-to-buidl-a-mesh-network-of-human-beings-a5293ecca60a)
+
+
 ## Submit your presentation
 Thanks for presenting at ETHBerlin. Please consider uploading your files into a sub-directory of [resources](resources/) and add them to list above by making a pull request.
