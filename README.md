@@ -27,7 +27,7 @@ If you weren't able to attend ETHBerlin or were there but missed a talk, look no
   - [other resources](https://get.status.im)
 
 - **(MyCrypto) Why Are You Here?** - By Jordan Spence
-  - [pdf](resources/why-are-you-here/whyareyouhere.pdf)
+  - [pdf](resources/why-are-you-here/WhyAreYouHere.pdf)
   - [MyCrypto.com](https://www.mycrypto.com)
 
 - **Baking Utility into NFTs** - By Christopher Robison
