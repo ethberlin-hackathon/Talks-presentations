@@ -43,6 +43,9 @@ If you weren't able to attend ETHBerlin or were there but missed a talk, look no
 - **(Gitcoin) How to BUIDL a Mesh Network of Human Beings** - By Kevin Owocki
   - [Google Slides](https://docs.google.com/presentation/d/1XQU8hYsBkwjSU93xjnyS969vjuvQwy0UrYhdWr4z0YU/edit#slide=id.g3dd8aa8ea9_0_50)
   - [Blog Post](https://medium.com/gitcoin/how-to-buidl-a-mesh-network-of-human-beings-a5293ecca60a)
+  
+- **Decoding Community - What Drake Can Teach You About Building Community** - By [Brittany Laughlin](http://twitter.com/br_ttany)
+  - [Blog post with slides](https://medium.com/@br_ttany/decoding-blockchain-community-c5938d112349)
 
 
 ## Submit your presentation
