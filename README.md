@@ -47,6 +47,11 @@ If you weren't able to attend ETHBerlin or were there but missed a talk, look no
 - **Decoding Community - What Drake Can Teach You About Building Community** - By [Brittany Laughlin](http://twitter.com/br_ttany)
   - [Blog post with slides](https://medium.com/@br_ttany/decoding-blockchain-community-c5938d112349)
 
+- **(ZeppelinOS) Getting started with ZeppelinOS - Upgradeability and on-chain libraries** - By [Facu Spagnuolo](https://twitter.com/facuspagnuolo)
+  - [pdf](resources/getting-started-with-zeppelinos/pdf.pdf)
+  - [keynote](resources/getting-started-with-zeppelinos/keynote.key)
+  - [documentation](https://docs.zeppelinos.org/)
+  - [exercise](https://github.com/zeppelinos/zos-ethberlin-exercise) 
 
 ## Submit your presentation
 Thanks for presenting at ETHBerlin. Please consider uploading your files into a sub-directory of [resources](resources/) and add them to list above by making a pull request.
