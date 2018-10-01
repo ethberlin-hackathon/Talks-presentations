@@ -56,5 +56,9 @@ If you weren't able to attend ETHBerlin or were there but missed a talk, look no
 - **Goerli testnet** - By [Afri Schoeden](https://twitter.com/5chdn), [Aidan Hyman](https://twitter.com/chainsafeth)
   - [pdf](resources/goerli-testnet/goerli-testnet.pdf)
 
+- **Towards a humanist blockchain future** - by [Lane Rettig](https://twitter.com/lrettig)
+  - [presentation](https://docs.google.com/presentation/d/1LTSGR8tJSiXrftUZaod7KugzWCOxgjTJe5KmEmvb_lY/edit?usp=sharing)
+  - [recording](https://view.ly/v/J0TaKyAHczOe)
+
 ## Submit your presentation
 Thanks for presenting at ETHBerlin. Please consider uploading your files into a sub-directory of [resources](resources/) and add them to list above by making a pull request.
